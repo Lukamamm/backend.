@@ -4,7 +4,7 @@ RUN pip install flask requests
 
 COPY app.py .
 
-EXPOSE 5000 
+EXPOSE 5001 
 
 ENV NAME="luka mamulashvili"
 
